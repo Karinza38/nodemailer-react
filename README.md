@@ -1,4 +1,4 @@
-# Nodemailer React
+ # Nodemailer React
 
 
 This package aims to simplify the use of Nodemailer, along with React templating.
